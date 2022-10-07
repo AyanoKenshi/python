@@ -8,4 +8,4 @@ elif segmento2 + segmento3 <= segmento1:
 elif segmento3 + segmento1 <= segmento2:
     print("não é possivel formar um triangulo")
 else:
-    print("é possivel formar um triangulo")
+    print("é possivel formar um triangulo")                                         #eu reaproveitei boa parte disso no ex30
