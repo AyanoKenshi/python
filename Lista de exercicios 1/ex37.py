@@ -12,4 +12,4 @@ elif genero == "M" and anosDeServico < 20:
 elif genero == "M" and anosDeServico >= 20 and anosDeServico < 30:
     print(f'o novo salario desse funcionario é {(salarioAtual * 1.13):,.2f}')
 else:
-    print(f'o novo salario desse funcionario é {(salarioAtual * 1.25):,.2f}')
+    print(f'o novo salario desse funcionario é {(salarioAtual * 1.25):,.2f}')   #eu espero que não sejam assim os criterios para receber um aumento

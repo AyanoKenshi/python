@@ -6,5 +6,3 @@ if a == jogada:
     print(f'a maquina jogou {a}, você acertou!')
 else:
     print(f'a maquina jogou {a}, você errou :(')        #bem mais simples que o outro
-import os
-os.system('cls')
